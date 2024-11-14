@@ -1,0 +1,13 @@
+md5: 8e884a73e938b1076449ae7699627474
+frozen: true
+deps:
+- checksum: '"0x8DCBE024FA089B8"'
+  size: 17923371
+  hash: md5
+  path: 
+    https://seismicstoragesb.blob.core.windows.net/azurestorage/parsed_files/cardiotag_files/101-0002/cardiotag_file.parquet?se=2024-11-14T16%3A30%3A43Z&sp=r&sv=2024-11-04&sr=b&sig=fGfRk%2BpHn2MwPh5YivnQBbHPt04vrEVFkHwiECsCfjc%3D
+outs:
+- md5: cd0c427a34dc5566c4acfaec27016e47
+  size: 17923371
+  hash: md5
+  path: 101-0002_cardiotag_file.parquet
