@@ -1,0 +1,13 @@
+md5: ab989392d13c601decb8725666b05187
+frozen: true
+deps:
+- checksum: '"0x8DCBE027443EA24"'
+  size: 9742319
+  hash: md5
+  path: 
+    https://seismicstoragesb.blob.core.windows.net/azurestorage/parsed_files/rhc_files/101-0001/rhc_file.parquet?sv=2022-11-02&ss=b&srt=sco&sp=rwdlacyx&se=2024-11-14T18:31:46Z&st=2024-11-14T10:31:46Z&spr=https&sig=DyTWRqGijAtjil21PUOxzAD51AXyGf6ctVaZFGiYHUE%3D
+outs:
+- md5: cb856608454efc265290de2853d1c6d4
+  size: 9742319
+  hash: md5
+  path: 101-0001_rhc_file.parquet
